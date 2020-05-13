@@ -2,6 +2,8 @@
 
 The Local Binary Patterns Classification Algorithm was implemented in Java.
 
+[More information about the algorithm](http://www.scholarpedia.org/article/Local_Binary_Patterns)
+
 
 ## Results
 
